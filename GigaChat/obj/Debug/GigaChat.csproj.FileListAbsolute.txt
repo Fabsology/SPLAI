@@ -1,0 +1,8 @@
+C:\Users\famueller\source\repos\GigaChat\bin\Debug\GigaChat.exe.config
+C:\Users\famueller\source\repos\GigaChat\bin\Debug\GigaChat.exe
+C:\Users\famueller\source\repos\GigaChat\bin\Debug\GigaChat.pdb
+C:\Users\famueller\source\repos\GigaChat\obj\Debug\GigaChat.csproj.AssemblyReference.cache
+C:\Users\famueller\source\repos\GigaChat\obj\Debug\GigaChat.csproj.SuggestedBindingRedirects.cache
+C:\Users\famueller\source\repos\GigaChat\obj\Debug\GigaChat.csproj.CoreCompileInputs.cache
+C:\Users\famueller\source\repos\GigaChat\obj\Debug\GigaChat.exe
+C:\Users\famueller\source\repos\GigaChat\obj\Debug\GigaChat.pdb
